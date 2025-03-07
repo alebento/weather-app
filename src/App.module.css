@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 100vh;
+  width: 100vw;
+  background-color: rgb(225, 225, 225);
+}
+
+.content {
+  width: 100%;
+  padding: 20px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  color: black;
+}
